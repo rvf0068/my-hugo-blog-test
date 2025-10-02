@@ -1,0 +1,41 @@
+#+title: My First Test Post
+#+date: 2025-10-01
+#+author: rvf0068
+#+params: math: true
+
+Welcome to my test blog! This post demonstrates Org-mode features with LaTeX math using \( \) for inline and \[ \] for display.
+
+- Link: [[https://example.com][Example Site]]
+- Image: [[https://via.placeholder.com/150][Sample Image]]
+
+Inline math example: The famous equation is \( E = mc^2 \), where \( m \) is mass and \( c \) is the speed of light.
+
+Display math examples:
+
+The Gaussian integral:
+\[ \int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi} \]
+
+A quadratic equation solution:
+\[ x = \frac{ -b \pm \sqrt{b^2 - 4ac} }{2a} \]
+
+Matrix multiplication:
+\[ \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} x \\ y \end{pmatrix} \]
+
+Basel problem:
+\[ \sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6} \]
+
+Euler's identity:
+\[ e^{i\pi} + 1 = 0 \]
+
+Code snippet:
+#+begin_src python
+import math
+
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+print(factorial(5))  # 120
+#+end_src

@@ -1,0 +1,20 @@
+baseURL = "https://rvf0068.github.io/my-hugo-blog-test/"
+languageCode = "en-us"
+title = "My Hugo Blog Test"
+theme = "ananke"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+  [markup.highlight]
+    style = "monokai"
+
+[params]
+  math = true
