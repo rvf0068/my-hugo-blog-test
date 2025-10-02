@@ -1,6 +1,7 @@
 #+title: My First Test Post
 #+date: 2025-10-01
 #+author: rvf0068
+#+math: true
 
 Welcome to my test blog! This post demonstrates Org-mode features with LaTeX math using \( \) for inline and \[ \] for display.
 
