@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Hugo Blog Test</title><link>https://rvf0068.github.io/my-hugo-blog-test/</link><description>Recent content on My Hugo Blog Test</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rvf0068.github.io/my-hugo-blog-test/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Test Post</title><link>https://rvf0068.github.io/my-hugo-blog-test/posts/first-post/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://rvf0068.github.io/my-hugo-blog-test/posts/first-post/</guid><description>&lt;p&gt;
+Welcome to my test blog! This post demonstrates Org-mode features with LaTeX math using \( \) for inline and \[ \] for display.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Link: &lt;a href="https://example.com"&gt;Example Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Image: &lt;a href="https://via.placeholder.com/150"&gt;Sample Image&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inline math example: The famous equation is \( E = mc^2 \), where \( m \) is mass and \( c \) is the speed of light.&lt;/p&gt;
+&lt;p&gt;
+Display math examples:&lt;/p&gt;
+&lt;p&gt;
+The Gaussian integral:
+\[ \int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi} \]&lt;/p&gt;
+&lt;p&gt;
+A quadratic equation solution:
+\[ x = \frac{ -b \pm \sqrt{b^2 - 4ac} }{2a} \]&lt;/p&gt;</description></item></channel></rss>
