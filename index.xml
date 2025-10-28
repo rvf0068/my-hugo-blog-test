@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Hugo Blog Test</title><link>https://rvf0068.github.io/my-hugo-blog-test/</link><description>Recent content on My Hugo Blog Test</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rvf0068.github.io/my-hugo-blog-test/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Test Post</title><link>https://rvf0068.github.io/my-hugo-blog-test/posts/first-post/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://rvf0068.github.io/my-hugo-blog-test/posts/first-post/</guid><description>&lt;p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Hugo Blog Test</title><link>https://rvf0068.github.io/my-hugo-blog-test/</link><description>Recent content on My Hugo Blog Test</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rvf0068.github.io/my-hugo-blog-test/index.xml" rel="self" type="application/rss+xml"/><item><title>Comprehensive Demo: Math Emacs Configuration</title><link>https://rvf0068.github.io/my-hugo-blog-test/posts/sample2/</link><pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate><guid>https://rvf0068.github.io/my-hugo-blog-test/posts/sample2/</guid><description>&lt;div id="outline-container-headline-1" class="outline-2"&gt;
+&lt;h2 id="headline-1"&gt;
+Introduction
+&lt;/h2&gt;
+&lt;div id="outline-text-headline-1" class="outline-text-2"&gt;
+&lt;p&gt;
+This document demonstrates the full capabilities of the math-emacs configuration, showcasing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Custom yasnippet templates for theorem environments (&lt;code class="verbatim"&gt;&amp;lt;f6&amp;gt; t&lt;/code&gt;, &lt;code class="verbatim"&gt;&amp;lt;f6&amp;gt; d&lt;/code&gt;, etc.)&lt;/li&gt;
+&lt;li&gt;Smart cross-referencing with &lt;code class="verbatim"&gt;C-c r&lt;/code&gt; using &lt;code class="verbatim"&gt;cross-refs.el&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;CDLaTeX quick math insertion (&lt;code class="verbatim"&gt;`o&lt;/code&gt; → \(\omega\), &lt;code class="verbatim"&gt;`O&lt;/code&gt; → \(\Omega\), etc.)&lt;/li&gt;
+&lt;li&gt;Math delimiters with &lt;code class="verbatim"&gt;$&lt;/code&gt; key binding&lt;/li&gt;
+&lt;li&gt;Integration with &lt;code class="verbatim"&gt;org-roam&lt;/code&gt; for linked notes&lt;/li&gt;
+&lt;li&gt;Bibliography management with &lt;code class="verbatim"&gt;citar&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Jupyter notebook integration&lt;/li&gt;
+&lt;li&gt;LaTeX fragment previews with &lt;code class="verbatim"&gt;org-fragtog&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Export to LaTeX/PDF and Jupyter notebooks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id="outline-container-headline-2" class="outline-3"&gt;
+&lt;h3 id="headline-2"&gt;
+Configuration Highlights
+&lt;/h3&gt;
+&lt;div id="outline-text-headline-2" class="outline-text-3"&gt;
+&lt;p&gt;
+This setup uses:&lt;/p&gt;</description></item><item><title>My First Test Post</title><link>https://rvf0068.github.io/my-hugo-blog-test/posts/first-post/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://rvf0068.github.io/my-hugo-blog-test/posts/first-post/</guid><description>&lt;p&gt;
 Welcome to my test blog! This post demonstrates Org-mode features with LaTeX math using \( \) for inline and \[ \] for display.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Link: &lt;a href="https://example.com"&gt;Example Site&lt;/a&gt;&lt;/li&gt;
